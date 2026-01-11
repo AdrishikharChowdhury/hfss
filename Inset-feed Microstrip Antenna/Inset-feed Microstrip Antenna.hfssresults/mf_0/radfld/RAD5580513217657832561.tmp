@@ -1,0 +1,60 @@
+$begin 'RFSM'
+	$begin 'RadSurfs'
+	$end 'RadSurfs'
+	$begin 'CustomSurfs'
+	$end 'CustomSurfs'
+	$begin 'SetupSolns'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=0, VersID=4, ParentID=26, VersID=0, DesVarn='', IntrVarn='Freq=\'2.4GHz\'')
+			SetupSolnFBOFile='78645132176578599112.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=5, VersID=6, ParentID=26, VersID=0, DesVarn='', IntrVarn='Freq=\'2.4GHz\'')
+			SetupSolnFBOFile='79425132176578605913.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'1GHz\'')
+			SetupSolnFBOFile='8F65132176578729040.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'1.2GHz\'')
+			SetupSolnFBOFile='8B15132176578726939.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'1.4GHz\'')
+			SetupSolnFBOFile='86D5132176578724838.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'1.6GHz\'')
+			SetupSolnFBOFile='8255132176578722637.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'1.8GHz\'')
+			SetupSolnFBOFile='7DD5132176578720436.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'2GHz\'')
+			SetupSolnFBOFile='7955132176578718235.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'2.2GHz\'')
+			SetupSolnFBOFile='74D5132176578716034.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'2.4GHz\'')
+			SetupSolnFBOFile='6035132176578705930.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'2.6GHz\'')
+			SetupSolnFBOFile='7025132176578713733.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'2.8GHz\'')
+			SetupSolnFBOFile='6B75132176578711432.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=7, VersID=10, ParentID=30, VersID=148, DesVarn='', IntrVarn='Freq=\'3GHz\'')
+			SetupSolnFBOFile='65F5132176578708731.tmp'
+		$end 'SetupSolnEntry'
+	$end 'SetupSolns'
+$end 'RFSM'
